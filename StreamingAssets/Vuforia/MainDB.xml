@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Coin" size="600.000000 601.981812" />
+    <ImageTarget name="Locket" size="400.000000 441.768768" />
+    <ImageTarget name="Dot" size="900.000000 1195.312500" />
+    <ImageTarget name="Sign_One" size="900.000000 1195.312500" />
+    <ImageTarget name="Sign" size="900.000000 971.320740" />
+    <ImageTarget name="R" size="900.000000 1195.312500" />
+    <ImageTarget name="MaaDurga" size="1000.000000 1035.413208" />
+    <ImageTarget name="AR" size="1000.000000 1326.588013" />
+    <ImageTarget name="X" size="1000.000000 1117.857178" />
+  </Tracking>
+</QCARConfig>
